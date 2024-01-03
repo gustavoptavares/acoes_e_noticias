@@ -1,8 +1,10 @@
 # Dashboard de ações e notícias
 
-## Visão Geral
+## Descrição Geral
 
-Criar um dashboard com código python, utilizando o framework dash + plotly, que mostra gráficos candlestick das ações CEAB3, WEGE3 e PETR4 e exibe as três notícias mais atualizadas do Brazil Journal
+O objetivo é criar um dashboard com cotações e notícias, utilizando a linguagem python e o framework dash + plotly, que mostra gráficos candlestick das ações CEAB3, WEGE3 e PETR4 e exibe as três notícias mais atualizadas do Brazil Journal. 
+
+O arquivo "app.py" é o script Dash, o diretório "assets", tem o arquivo CSS "style.css" com os estilos. Ao iniciar o aplicativo, o Dash automaticamente irá detectar os arquivos dentro do diretório assets e irá aplicá-los ao seu aplicativo.
 
 ## Tecnologias
 
@@ -22,7 +24,7 @@ Abaixo serão listadas todas as tecnologias de linguagens, bibliotecas e framewo
 
 • CSS.
 
-## O Processo
+## Etapas de Desenvolvimento
 
 As etapas do desenvolvimento do dashboard foram as seguintes:
 
