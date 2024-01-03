@@ -41,12 +41,12 @@ As etapas do desenvolvimento do dashboard foram as seguintes:
 
 • Segue abaixo a imagem, que mostra o dashboard com o gráfico de candle, e as notícias listadas da ação CEAB3 - C&A Modas.
 
-(https://github.com/gustavoptavares/acoes_e_noticias/blob/main/CEAB3.jpg)
+![Minha Imagem](https://github.com/gustavoptavares/acoes_e_noticias/blob/main/CEAB3.jpg)
 
 • Segue abaixo a imagem, que mostra o dashboard com o gráfico de candle, e as notícias listadas da ação WEGE3 - WEG S.A.
 
-(https://github.com/gustavoptavares/acoes_e_noticias/blob/main/WEGE3.jpg)
+![Minha Imagem](https://github.com/gustavoptavares/acoes_e_noticias/blob/main/WEGE3.jpg)
 
 • Segue abaixo a imagem, que mostra o dashboard com o gráfico de candle, e as notícias listadas da ação PETR4 - Petrobras.
 
-(https://github.com/gustavoptavares/acoes_e_noticias/blob/main/PETR4.jpg)
+![Minha Imagem](https://github.com/gustavoptavares/acoes_e_noticias/blob/main/PETR4.jpg)
