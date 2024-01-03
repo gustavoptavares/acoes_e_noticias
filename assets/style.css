@@ -1,0 +1,30 @@
+/* Conteúdo do arquivo style.css */
+.Select-menu-outer {
+    background-color: black !important;
+}
+
+.Select-menu {
+    background-color: black !important;
+}
+
+.Select-option.is-focused, .Select-option.is-selected {
+    background-color: #292b2c !important;
+    color: white !important;
+}
+
+.Select-control {
+    background-color: black !important;
+    color: white !important;
+}
+
+.Select-value-label, .Select-placeholder {
+    color: white !important;
+}
+
+.Select--single > .Select-control .Select-value {
+    color: white !important;
+}
+
+.Select-arrow-zone {
+    color: white !important;
+}
