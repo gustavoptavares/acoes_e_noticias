@@ -39,3 +39,6 @@ As etapas do desenvolvimento do dashboard foram as seguintes:
 
 ## Resultados
 
+Segue abaixo a imagem, que mostra o dashboard com o gráfico de candle, e as notícias listadas da ação WEG S.A.
+
+![WEG S.A.](https://github.com/gustavoptavares/acoes_e_noticias/blob/main/WEGE3.jpg)
